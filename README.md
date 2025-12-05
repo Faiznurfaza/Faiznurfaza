@@ -29,6 +29,7 @@ Full Stack Engineer with a background in pharmacy, passionate about exploring te
 ### 🌱 Currently Learning
 
 - ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
+- ![Go](https://img.shields.io/badge/golang-00ADD8?&style=plastic&logo=go&logoColor=white)
 - ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)
 
 ### 💼 Latest Experience
@@ -46,13 +47,6 @@ Full Stack Engineer with a background in pharmacy, passionate about exploring te
 - Web Development
 - Game Development
 - Automation
-
----
-
-### 🎓 Technical Background
-
-- Graduated as a **Pharmacy Student**
-- Graduated as a **Full Stack Developer** at Binar Academy Bootcamp
 
 ---
 
