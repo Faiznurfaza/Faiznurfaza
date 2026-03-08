@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Faiz&desc=Full%20Stack%20Engineer&fontSize=70&fontAlignY=40&animation=fadeIn")
+
 
 ## 👋 Hi, I'm Faiz
 
@@ -28,9 +28,7 @@ Full Stack Engineer with a background in pharmacy, passionate about exploring te
 
 ### 🌱 Currently Learning
 
-- ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
 - ![Go](https://img.shields.io/badge/golang-00ADD8?&style=plastic&logo=go&logoColor=white)
-- ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)
 
 ### 💼 Latest Experience
 
