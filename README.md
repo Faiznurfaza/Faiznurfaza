@@ -26,14 +26,10 @@ Full Stack Engineer with a background in pharmacy, passionate about exploring te
 
 ---
 
-### 🌱 Currently Learning
-
-- ![Go](https://img.shields.io/badge/golang-00ADD8?&style=plastic&logo=go&logoColor=white)
-
 ### 💼 Latest Experience
 
 - **Full Stack Engineer**  
-  _Satuplatform_
+  _Satuplatform_ (2023-2025)
   - Developed responsive UIs (React) and RESTful APIs (Node.js), improving development speed and API performance.
   - Enhanced user experience with dynamic dashboards and UI updates based on Figma designs.
   - Improved an AI-powered chatbot for data visualization and collaborated in Agile teams to deliver stable, high-quality products.
