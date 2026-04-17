@@ -39,7 +39,6 @@ Full Stack Engineer with a background in pharmacy, passionate about exploring te
 ### 🎯 Fields of Interest
 
 - Web Development
-- Game Development
 - Automation
 
 ---
